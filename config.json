@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql+pymysql://root:@localhost/codebooster",
+    "prod_uri": "mysql+pymysql://root:@localhost/codebooster",
+    "fb_url": "https://www.facebook.com/",
+    "tw_url": "https://www.twitter.com/",
+    "gh_url": "https://www.github.com/",
+    "blog_name": "ThePuzzleSolver",
+    "tag_line": "Want to boost your mind, lets solve a puzzle!!!",
+    "gmail-user": "abc@gamil.com",
+    "gmail-password": "your-password",
+    "about-text": "Welcome to ThePuzzleSolver, where you will find a variety of puzzles, which will challenge you and your mind, and solving them will sharpen your mind and boost your problem solving skills.",
+    "no_of_posts": 3,
+    "login_image": "login-logo.svg",
+    "admin_user": "admin username",
+    "admin_password": "admin password",
+    "upload_location": "F:\\placement\\python flask\\static\\assets\\img"
+  }
+}
